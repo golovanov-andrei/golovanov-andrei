@@ -59,29 +59,18 @@ me = AboutMe()
 <p align="center"> Основные языки </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"> 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> 
-</p>
-
-<p align="center"> Бэкенд & Фреймворки </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"> 
 </p>
 
 <p align="center"> Инфраструктура & Инструменты </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux"> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
 </p>
 
 ### 📊 Статистика
 <p align="center"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=extrimext&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Статистика"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extrimext&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Топ языков"> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=golovanov-andrei&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Статистика"> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golovanov-andrei&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Топ языков"> 
 </p>
 
 <!--- ### 🚀 Мои ключевые проекты -->
@@ -89,7 +78,7 @@ me = AboutMe()
 
 ### 📈 Активность
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=extrimext&theme=react-dark&hide_border=true&area=true" alt="График активности"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=golovanov-andrei&theme=react-dark&hide_border=true&area=true" alt="График активности"> 
 </p>
 
 ### 💡 Философия
