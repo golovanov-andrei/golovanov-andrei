@@ -29,20 +29,26 @@
 ```python
 class AboutMe:
     def __init__(self):
-        self.name = "👨‍💻 Тимур"
-        self.role = "Разработчик"
+        self.name = "👨‍💻 Андрей"
+        self.role = "ML / Data Science разработчик"
         self.passion = "🚀 Создаю качественный код и решаю сложные задачи"
-        
-    def get_skills(self):
+
+    def stack(self):
         return {
-            'backend': ['🐍 Python', '⚡ FastAPI', '🌐 Django', '☕ Java', '🍃 Spring'],
-            'mobile': ['📱 Kotlin', '🤖 Android SDK'],
-            'environment': ['🐧 Arch Linux', '💡 Intellij IDEA'],
-            'other': ['🔧 Git', '🐳 Docker', '⚙️ C++', '🗃️ SQL', '🎯 Могу починить принтер(!шутка)']
+            "core": ["🐍 Python"],
+            "data": ["📊 Pandas", "📈 NumPy", "🗃️ SQL"],
+            "tools": ["🔧 Git", "📒 Google Colab", "🏆 Kaggle"]
         }
-    
+
+    def ml_pipeline(self, data):
+        data = self.preprocess(data)  
+        model = self.train(data)     
+        results = self.evaluate(model) 
+        return results
+
     def current_focus(self):
-        return "🎯 Разработка высоконагруженных систем и изучение новых технологий"
+        return "Разработка ML / Data Science"
+
 
 me = AboutMe()
 ```
