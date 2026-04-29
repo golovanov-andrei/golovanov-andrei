@@ -68,6 +68,14 @@ me = AboutMe()
    <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
+<p align="center"> Библиотеки & Анализ данных </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+</p>
+
 ### 📊 Статистика
 <p align="center"> 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=golovanov-andrei&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Статистика"> 
