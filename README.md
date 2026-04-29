@@ -1,4 +1,25 @@
-<h1 align="center">Привет, я Тимур 👋</h1> <h3 align="center">ML / Python разработчик (в развитии)</h3> <p align="center"> <a href="https://t.me/your_username"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="mailto:your_email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"> </p>
+<h1 align="center">Привет, я Андрей👋</h1>
+<h3 align="center">ML / Data Science разработчик</h3>
+
+<p align="center">
+  <a href="https://t.me/andr3ikaG">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:mrmaderator42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+     <a href="https://www.kaggle.com/mrmoderator">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<a href="https://vk.com/agol0vanov">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
+</p>
 
 ---
 
