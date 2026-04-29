@@ -10,7 +10,8 @@
   </a>
      <a href="https://www.kaggle.com/mrmoderator">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-<a href="https://vk.com/agol0vanov">
+  </a>
+    <a href="https://vk.com/agol0vanov">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
 </p>
@@ -25,7 +26,6 @@
 
 ### 🎯 Обо мне
 
-````markdown
 ```python
 class AboutMe:
     def __init__(self):
@@ -52,7 +52,7 @@ class AboutMe:
 
 me = AboutMe()
 ```
-````
+
 
 ### 🛠️ Технологический стек
 
@@ -83,11 +83,9 @@ me = AboutMe()
 
 ### 💡 Философия
 
-Пишу чистый код. Выбираю инструменты осознанно.
-
-Arch Linux — это не просто ОС, это философия минимализма и контроля. </p>
+Фокус на данных, моделях и реальной практике. </p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=golovanov-andrei&color=blueviolet&style=flat-square" alt="Посетители профиля" /> 
-  <a href="https://github.com/golovanov-andrei?tab=followers"> <img src="https://img.shields.io/github/followers/extrimext?label=Follow&style=social" alt="Подписчики"> </a> 
+  <a href="https://github.com/golovanov-andrei?tab=followers"> <img src="https://img.shields.io/github/followers/golovanov-andrei?label=Follow&style=social" alt="Подписчики"> </a> 
 </p>
