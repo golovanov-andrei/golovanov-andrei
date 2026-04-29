@@ -88,6 +88,6 @@ me = AboutMe()
 Arch Linux — это не просто ОС, это философия минимализма и контроля. </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=extrimext&color=blueviolet&style=flat-square" alt="Посетители профиля" /> 
-  <a href="https://github.com/extrimext?tab=followers"> <img src="https://img.shields.io/github/followers/extrimext?label=Follow&style=social" alt="Подписчики"> </a> 
+  <img src="https://komarev.com/ghpvc/?username=golovanov-andrei&color=blueviolet&style=flat-square" alt="Посетители профиля" /> 
+  <a href="https://github.com/golovanov-andrei?tab=followers"> <img src="https://img.shields.io/github/followers/extrimext?label=Follow&style=social" alt="Подписчики"> </a> 
 </p>
