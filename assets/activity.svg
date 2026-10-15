@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
 <title id="title">golovanov-andrei: GitHub contributions, 2026-09-15 — 2026-10-15</title>
-<desc id="desc">12 public contributions across 2 active days. Source: GitHub public contribution calendar.</desc>
+<desc id="desc">17 public contributions across 2 active days. Source: GitHub public contribution calendar.</desc>
 <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#2dd4bf" stop-opacity=".35"/><stop offset="1" stop-color="#2dd4bf" stop-opacity=".02"/></linearGradient></defs>
 <rect width="1000" height="310" rx="18" fill="#0d1726"/>
 <g font-family="Segoe UI,Arial,sans-serif">
 <text x="32" y="42" font-size="23" font-weight="700" fill="#f8fafc">GitHub · активность</text>
 <text x="32" y="68" font-size="13" fill="#94a3b8">2026-09-15 — 2026-10-15</text>
-<text x="952" y="42" text-anchor="end" font-size="15" font-weight="600" fill="#5eead4">12 contributions · 2 active days</text>
+<text x="952" y="42" text-anchor="end" font-size="15" font-weight="600" fill="#5eead4">17 contributions · 2 active days</text>
 <path d="M58 242.0H952" stroke="#243447" stroke-width="1"/>
 <text x="42" y="246.0" text-anchor="end" font-size="12" fill="#94a3b8">0</text>
 <path d="M58 196.0H952" stroke="#243447" stroke-width="1"/>
-<text x="42" y="200.0" text-anchor="end" font-size="12" fill="#94a3b8">3</text>
+<text x="42" y="200.0" text-anchor="end" font-size="12" fill="#94a3b8">4</text>
 <path d="M58 150.0H952" stroke="#243447" stroke-width="1"/>
-<text x="42" y="154.0" text-anchor="end" font-size="12" fill="#94a3b8">6</text>
+<text x="42" y="154.0" text-anchor="end" font-size="12" fill="#94a3b8">8</text>
 <path d="M58 104.0H952" stroke="#243447" stroke-width="1"/>
-<text x="42" y="108.0" text-anchor="end" font-size="12" fill="#94a3b8">9</text>
-<polygon points="58,242 58.00,242.00 87.80,242.00 117.60,242.00 147.40,242.00 177.20,242.00 207.00,242.00 236.80,242.00 266.60,242.00 296.40,242.00 326.20,242.00 356.00,242.00 385.80,242.00 415.60,242.00 445.40,242.00 475.20,242.00 505.00,242.00 534.80,242.00 564.60,242.00 594.40,242.00 624.20,242.00 654.00,242.00 683.80,242.00 713.60,242.00 743.40,242.00 773.20,242.00 803.00,242.00 832.80,165.33 862.60,242.00 892.40,242.00 922.20,242.00 952.00,134.67 952,242" fill="url(#area)"/>
-<polyline points="58.00,242.00 87.80,242.00 117.60,242.00 147.40,242.00 177.20,242.00 207.00,242.00 236.80,242.00 266.60,242.00 296.40,242.00 326.20,242.00 356.00,242.00 385.80,242.00 415.60,242.00 445.40,242.00 475.20,242.00 505.00,242.00 534.80,242.00 564.60,242.00 594.40,242.00 624.20,242.00 654.00,242.00 683.80,242.00 713.60,242.00 743.40,242.00 773.20,242.00 803.00,242.00 832.80,165.33 862.60,242.00 892.40,242.00 922.20,242.00 952.00,134.67" fill="none" stroke="#2dd4bf" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="42" y="108.0" text-anchor="end" font-size="12" fill="#94a3b8">12</text>
+<polygon points="58,242 58.00,242.00 87.80,242.00 117.60,242.00 147.40,242.00 177.20,242.00 207.00,242.00 236.80,242.00 266.60,242.00 296.40,242.00 326.20,242.00 356.00,242.00 385.80,242.00 415.60,242.00 445.40,242.00 475.20,242.00 505.00,242.00 534.80,242.00 564.60,242.00 594.40,242.00 624.20,242.00 654.00,242.00 683.80,242.00 713.60,242.00 743.40,242.00 773.20,242.00 803.00,242.00 832.80,184.50 862.60,242.00 892.40,242.00 922.20,242.00 952.00,104.00 952,242" fill="url(#area)"/>
+<polyline points="58.00,242.00 87.80,242.00 117.60,242.00 147.40,242.00 177.20,242.00 207.00,242.00 236.80,242.00 266.60,242.00 296.40,242.00 326.20,242.00 356.00,242.00 385.80,242.00 415.60,242.00 445.40,242.00 475.20,242.00 505.00,242.00 534.80,242.00 564.60,242.00 594.40,242.00 624.20,242.00 654.00,242.00 683.80,242.00 713.60,242.00 743.40,242.00 773.20,242.00 803.00,242.00 832.80,184.50 862.60,242.00 892.40,242.00 922.20,242.00 952.00,104.00" fill="none" stroke="#2dd4bf" stroke-width="2.5" stroke-linejoin="round"/>
 <circle cx="58.00" cy="242.00" r="3" fill="#5eead4"><title>2026-09-15: 0 contributions</title></circle>
 <circle cx="87.80" cy="242.00" r="3" fill="#5eead4"><title>2026-09-16: 0 contributions</title></circle>
 <circle cx="117.60" cy="242.00" r="3" fill="#5eead4"><title>2026-09-17: 0 contributions</title></circle>
@@ -43,11 +43,11 @@
 <circle cx="743.40" cy="242.00" r="3" fill="#5eead4"><title>2026-10-08: 0 contributions</title></circle>
 <circle cx="773.20" cy="242.00" r="3" fill="#5eead4"><title>2026-10-09: 0 contributions</title></circle>
 <circle cx="803.00" cy="242.00" r="3" fill="#5eead4"><title>2026-10-10: 0 contributions</title></circle>
-<circle cx="832.80" cy="165.33" r="3" fill="#5eead4"><title>2026-10-11: 5 contributions</title></circle>
+<circle cx="832.80" cy="184.50" r="3" fill="#5eead4"><title>2026-10-11: 5 contributions</title></circle>
 <circle cx="862.60" cy="242.00" r="3" fill="#5eead4"><title>2026-10-12: 0 contributions</title></circle>
 <circle cx="892.40" cy="242.00" r="3" fill="#5eead4"><title>2026-10-13: 0 contributions</title></circle>
 <circle cx="922.20" cy="242.00" r="3" fill="#5eead4"><title>2026-10-14: 0 contributions</title></circle>
-<circle cx="952.00" cy="134.67" r="3" fill="#5eead4"><title>2026-10-15: 7 contributions</title></circle>
+<circle cx="952.00" cy="104.00" r="3" fill="#5eead4"><title>2026-10-15: 12 contributions</title></circle>
 <text x="58.00" y="268" text-anchor="middle" font-size="12" fill="#94a3b8">15.09</text>
 <text x="207.00" y="268" text-anchor="middle" font-size="12" fill="#94a3b8">20.09</text>
 <text x="356.00" y="268" text-anchor="middle" font-size="12" fill="#94a3b8">25.09</text>
