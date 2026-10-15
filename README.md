@@ -1,74 +1,93 @@
-<h1 align="center">Андрей Голованов</h1>
-<p align="center"><strong>Data Science / Machine Learning · Python</strong></p>
-
 <p align="center">
-  <a href="https://t.me/andr3ikaG">Telegram</a> ·
-  <a href="mailto:mrmaderator42@gmail.com">Email</a> ·
-  <a href="https://www.kaggle.com/mrmoderator">Kaggle</a> ·
-  <a href="https://vk.com/agol0vanov">VK</a>
+  <img src="assets/header.svg" alt="Андрей Голованов — Data Science и Machine Learning" width="100%">
 </p>
 
-Развиваюсь в Data Science и машинном обучении. Работаю с табличными и текстовыми данными: исследую данные, готовлю признаки, обучаю модели и разбираю ошибки. Для демонстрации результатов создаю небольшие веб-интерфейсы.
+<p align="center">
+  <a href="https://t.me/andr3ikaG"><b>Telegram</b></a> ·
+  <a href="mailto:mrmaderator42@gmail.com"><b>Email</b></a> ·
+  <a href="https://www.kaggle.com/mrmoderator"><b>Kaggle</b></a> ·
+  <a href="https://vk.com/agol0vanov"><b>VK</b></a>
+</p>
 
-Ниже — проекты с кодом, сохранёнными результатами и описанием ограничений. Рассматриваю возможности работы в Data Science / ML.
+Разрабатываю ML-проекты на Python: от исследования данных и обучения модели до приложения, которое можно запустить и проверить. Работаю с табличными данными и текстами, разбираю ошибки моделей и делаю результаты понятными через визуализации и веб-интерфейсы.
 
-## Проекты
+**Направление:** Data Science / ML Engineering.
 
-### [Reviews — тональность и темы отзывов](https://github.com/golovanov-andrei/Reviews)
+---
 
-**Задача:** определить тональность англоязычных отзывов и исследовать их основные темы.
+## 🚀 Проекты
 
-- Подготовка текстов, TF-IDF с униграммами и биграммами, логистическая регрессия.
-- Матрица ошибок, разбор ложных положительных и отрицательных ответов, анализ весов слов.
-- Тематическое моделирование: 5 тем LDA и интерактивная визуализация pyLDAvis.
+<table>
+  <tr>
+    <td width="36%" align="center">
+      <a href="https://github.com/golovanov-andrei/MoscowPrices">
+        <img src="https://raw.githubusercontent.com/golovanov-andrei/MoscowPrices/012a0187927f8d0491d546e5a30ea2d3348d56f0/screens/home.jpg" alt="Сайт MoscowPrices" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/golovanov-andrei/MoscowPrices">🏙️ MoscowPrices</a></h3>
+      <p>Оценка стоимости квартир в Москве по характеристикам квартиры и расположению.</p>
+      <p>CatBoost, Flask-сайт и API, форма предсказания, интерактивная карта метро. В README — запуск и условия оценки качества.</p>
+      <p><b>Python · CatBoost · Flask · Folium · JavaScript</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/golovanov-andrei/Reviews">
+        <img src="https://raw.githubusercontent.com/golovanov-andrei/Reviews/d7f2b5f646677f134345098e50506693a2a28182/screens/lda.png" alt="Темы отзывов в Reviews" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/golovanov-andrei/Reviews">📝 Reviews</a></h3>
+      <p>Классификация тональности англоязычных отзывов и исследование тем обсуждений.</p>
+      <p>TF-IDF с униграммами и биграммами, Logistic Regression, анализ ошибок и пять тем LDA с визуализацией pyLDAvis.</p>
+      <p><b>Python · scikit-learn · NLP · LDA · pyLDAvis</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/golovanov-andrei/Credit-risk">
+        <img src="https://raw.githubusercontent.com/golovanov-andrei/Credit-risk/31fef6f390cb1bfe0fb7ff91a4e76bc0a413988b/screens/result.jpg" alt="Score и объяснение модели Credit-risk" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/golovanov-andrei/Credit-risk">💳 Credit-risk</a></h3>
+      <p>Учебный скоринг: единый Pipeline для обучения, CLI и приложения Streamlit.</p>
+      <p>Train / validation / test, выбор порога по F1, сравнение с baseline и объяснение вкладов признаков. Целевая метка задаётся искусственным правилом.</p>
+      <p><b>Python · scikit-learn · Streamlit · pytest · GitHub Actions</b></p>
+    </td>
+  </tr>
+</table>
 
-В сохранённом запуске: **accuracy 0.9375, ROC-AUC 0.9823**. Метки получены из рейтингов; условия оценки описаны в README.
+Дополнительно: [Spring_2026 — учебные работы](https://github.com/golovanov-andrei/Spring_2026).
 
-**Стек:** Python, pandas, scikit-learn, Matplotlib, Seaborn, pyLDAvis.
+---
 
-### [MoscowPrices — стоимость квартир в Москве](https://github.com/golovanov-andrei/MoscowPrices)
+## 🛠 Стек
 
-**Задача:** исследовать связь характеристик квартиры с ценой и создать прототип сервиса оценки.
-
-- Исследование данных, фильтрация выбросов, признаки расположения и характеристик квартиры.
-- CatBoost с логарифмированием целевой переменной; анализ ошибок и важности признаков.
-- Flask API, форма на HTML/CSS/JavaScript и карта станций метро на Folium.
-
-В README указаны недостающие данные и модель, а также ограничение текущей оценки из-за расчёта признака цены станции до разделения выборки.
-
-**Стек:** Python, pandas, CatBoost, Flask, Folium, JavaScript.
-
-### [Credit-risk — демонстрационный скоринг](https://github.com/golovanov-andrei/Credit-risk)
-
-**Задача:** пройти путь от подготовки табличных признаков до классификатора и Streamlit-прототипа.
-
-- Кодирование категорий, обработка пропусков, Pipeline со StandardScaler и Logistic Regression.
-- Работа с дисбалансом классов, порогом классификации и метриками precision/recall/F1.
-- Сохранение модели через joblib, категории A/B/C и прототип визуализации SHAP.
-
-Целевая метка задана искусственным правилом; проект демонстрирует технический процесс, а не валидированную оценку дефолта.
-
-**Стек:** Python, pandas, scikit-learn, Streamlit, SHAP.
-
-### [Spring_2026 — учебные работы](https://github.com/golovanov-andrei/Spring_2026)
-
-Алгоритмы и блок-схемы, веб-разработка, Git. В репозитории — Python-программа, отчёты и материалы курса.
-
-## Инструменты
-
-| Направление | Технологии |
+| Направление | Инструменты |
 | --- | --- |
 | Данные | Python, pandas, NumPy, SQL |
-| Машинное обучение | scikit-learn, CatBoost |
-| Обработка текстов | TF-IDF, CountVectorizer, LDA |
+| Machine Learning | scikit-learn, CatBoost, Logistic Regression, Pipeline |
+| NLP | TF-IDF, CountVectorizer, LDA |
 | Визуализация | Matplotlib, Seaborn, Folium, pyLDAvis |
-| Прототипы | Flask, Streamlit, HTML, CSS, JavaScript |
-| Разработка | Git, Jupyter Notebook, Google Colab |
+| Приложения | Flask, Streamlit, HTML, CSS, JavaScript |
+| Разработка | Git, GitHub Actions, pytest, Jupyter Notebook, Google Colab |
 
-## Развитие портфолио
+---
 
-Следующий этап — воспроизводимый запуск проектов, единая предобработка обучения и инференса, независимая оценка качества и проверка API. Текущий статус каждого проекта описан в его README.
+## 🔎 На что обращаю внимание
 
-## Связаться со мной
+- **Качество эксперимента:** разбиение данных, метрики, baseline и ограничения оценки.
+- **Воспроизводимость:** понятный запуск, сохранение предобработки вместе с моделью.
+- **Рабочий результат:** интерфейс, обработка входных данных и проверки критичных сценариев.
 
-[Telegram](https://t.me/andr3ikaG) · [Email](mailto:mrmaderator42@gmail.com) · [Kaggle](https://www.kaggle.com/mrmoderator)
+---
+
+## 📈 Активность
+
+Публичные contributions GitHub за последние 31 день. График обновляется ежедневно.
+
+<a href="https://github.com/golovanov-andrei?tab=overview">
+  <img src="assets/activity.svg" alt="График публичной активности golovanov-andrei на GitHub за 31 день" width="100%">
+</a>
