@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Андрей Голованов — Data Science и Machine Learning" width="100%">
+  <img src="assets/header.svg?v=20261015-fruits" alt="Андрей Голованов — Data Science и Machine Learning" width="100%">
 </p>
 
 <p align="center">
