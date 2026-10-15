@@ -9,7 +9,7 @@
   <a href="https://vk.com/agol0vanov"><b>VK</b></a>
 </p>
 
-Разрабатываю ML-проекты на Python: от исследования данных и обучения модели до приложения, которое можно запустить и проверить. Работаю с табличными данными и текстами, разбираю ошибки моделей и делаю результаты понятными через визуализации и веб-интерфейсы.
+Разрабатываю ML-проекты на Python: от исследования данных и обучения модели до приложения, которое можно запустить и проверить. Работаю с табличными данными, текстами и изображениями, разбираю ошибки моделей и делаю результаты понятными через визуализации и веб-интерфейсы.
 
 **Направление:** Data Science / ML Engineering.
 
@@ -18,6 +18,20 @@
 ## 🚀 Проекты
 
 <table>
+  <tr>
+    <td width="36%" align="center">
+      <a href="https://github.com/golovanov-andrei/Fruits">
+        <img src="https://raw.githubusercontent.com/golovanov-andrei/Fruits/32ab9cd548f87675c3ddf5fabb88caf8c1465648/screens/predictions.png" alt="Предсказания MobileNetV2 на изображениях Fruits-360" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/golovanov-andrei/Fruits">🍎 Fruits</a></h3>
+      <p>Распознавание 269 классов Fruits-360 с помощью MobileNetV2 и transfer learning.</p>
+      <p>3 эпохи обучения; <b>test accuracy 72,44%</b> на 4 304 изображениях фиксированной подвыборки. Раздельные train / validation / test, графики обучения, примеры предсказаний и разбор ошибок.</p>
+      <p><b>Python · TensorFlow · Keras · MobileNetV2 · Computer Vision</b></p>
+      <p><sub>Изображения Fruits-360: © Mihai Oltean, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Подписи модели добавлены в проекте.</sub></p>
+    </td>
+  </tr>
   <tr>
     <td width="36%" align="center">
       <a href="https://github.com/golovanov-andrei/MoscowPrices">
@@ -70,9 +84,10 @@
 | Данные | Python, pandas, NumPy, SQL |
 | Machine Learning | scikit-learn, CatBoost, Logistic Regression, Pipeline |
 | NLP | TF-IDF, CountVectorizer, LDA |
+| Computer Vision | TensorFlow, Keras, MobileNetV2, transfer learning |
 | Визуализация | Matplotlib, Seaborn, Folium, pyLDAvis |
 | Приложения | Flask, Streamlit, HTML, CSS, JavaScript |
-| Разработка | Git, GitHub Actions, pytest, Jupyter Notebook, Google Colab |
+| Разработка | Git, GitHub Actions, pytest, Jupyter Notebook, Google Colab, Kaggle |
 
 ---
 

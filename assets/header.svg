@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
   <title id="title">Андрей Голованов — Data Science и Machine Learning</title>
-  <desc id="desc">Табличные данные, NLP и приложения на Python.</desc>
+  <desc id="desc">Табличные данные, NLP, Computer Vision и приложения на Python.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#102c38"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
@@ -12,8 +12,8 @@
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="68" y="65" fill="#5eead4" font-size="13" font-weight="700" letter-spacing="2">DATA SCIENCE / MACHINE LEARNING</text>
     <text x="66" y="123" fill="#f8fafc" font-size="43" font-weight="700">Андрей Голованов</text>
-    <text x="68" y="160" fill="#cbd5e1" font-size="18">Табличные данные · NLP · ML-приложения</text>
-    <text x="68" y="199" fill="#94a3b8" font-size="14">Python / scikit-learn / CatBoost / Flask / Streamlit</text>
+    <text x="68" y="160" fill="#cbd5e1" font-size="18">Табличные данные · NLP · Computer Vision · ML-приложения</text>
+    <text x="68" y="199" fill="#94a3b8" font-size="14">Python / scikit-learn / CatBoost / TensorFlow / Flask / Streamlit</text>
   </g>
   <g fill="none" stroke="#2dd4bf" stroke-opacity=".34" stroke-width="1.5">
     <path d="M754 72 826 116 754 176M754 72 904 62 826 116 914 180 754 176M904 62 914 180M754 72V176"/>
