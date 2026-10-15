@@ -20,20 +20,6 @@
 <table>
   <tr>
     <td width="36%" align="center">
-      <a href="https://github.com/golovanov-andrei/Fruits">
-        <img src="https://raw.githubusercontent.com/golovanov-andrei/Fruits/32ab9cd548f87675c3ddf5fabb88caf8c1465648/screens/predictions.png" alt="Предсказания MobileNetV2 на изображениях Fruits-360" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/golovanov-andrei/Fruits">🍎 Fruits</a></h3>
-      <p>Распознавание 269 классов Fruits-360 с помощью MobileNetV2 и transfer learning.</p>
-      <p>3 эпохи обучения; <b>test accuracy 72,44%</b> на 4 304 изображениях фиксированной подвыборки. Раздельные train / validation / test, графики обучения, примеры предсказаний и разбор ошибок.</p>
-      <p><b>Python · TensorFlow · Keras · MobileNetV2 · Computer Vision</b></p>
-      <p><sub>Изображения Fruits-360: © Mihai Oltean, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Подписи модели добавлены в проекте.</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="36%" align="center">
       <a href="https://github.com/golovanov-andrei/MoscowPrices">
         <img src="https://raw.githubusercontent.com/golovanov-andrei/MoscowPrices/012a0187927f8d0491d546e5a30ea2d3348d56f0/screens/home.jpg" alt="Сайт MoscowPrices" width="100%">
       </a>
@@ -69,6 +55,20 @@
       <p>Учебный скоринг: единый Pipeline для обучения, CLI и приложения Streamlit.</p>
       <p>Train / validation / test, выбор порога по F1, сравнение с baseline и объяснение вкладов признаков. Целевая метка задаётся искусственным правилом.</p>
       <p><b>Python · scikit-learn · Streamlit · pytest · GitHub Actions</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="36%" align="center">
+      <a href="https://github.com/golovanov-andrei/Fruits">
+        <img src="https://raw.githubusercontent.com/golovanov-andrei/Fruits/32ab9cd548f87675c3ddf5fabb88caf8c1465648/screens/predictions.png" alt="Предсказания MobileNetV2 на изображениях Fruits-360" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/golovanov-andrei/Fruits">🍎 Fruits</a></h3>
+      <p>Распознавание 269 классов Fruits-360 с помощью MobileNetV2 и transfer learning.</p>
+      <p>3 эпохи обучения; <b>test accuracy 72,44%</b> на 4 304 изображениях фиксированной подвыборки. Раздельные train / validation / test, графики обучения, примеры предсказаний и разбор ошибок.</p>
+      <p><b>Python · TensorFlow · Keras · MobileNetV2 · Computer Vision</b></p>
+      <p><sub>Изображения Fruits-360: © Mihai Oltean, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Подписи модели добавлены в проекте.</sub></p>
     </td>
   </tr>
 </table>
