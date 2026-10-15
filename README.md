@@ -1,100 +1,93 @@
-<h1 align="center">Привет, я Андрей👋</h1>
-<h3 align="center">ML / Data Science разработчик</h3>
-
 <p align="center">
-  <a href="https://t.me/andr3ikaG">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:mrmaderator42@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-     <a href="https://www.kaggle.com/mrmoderator">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-    <a href="https://vk.com/agol0vanov">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
-  </a>
+  <img src="assets/header.svg" alt="Андрей Голованов — Data Science и Machine Learning" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
-   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+  <a href="https://t.me/andr3ikaG"><b>Telegram</b></a> ·
+  <a href="mailto:mrmaderator42@gmail.com"><b>Email</b></a> ·
+  <a href="https://www.kaggle.com/mrmoderator"><b>Kaggle</b></a> ·
+  <a href="https://vk.com/agol0vanov"><b>VK</b></a>
 </p>
+
+Разрабатываю ML-проекты на Python: от исследования данных и обучения модели до приложения, которое можно запустить и проверить. Работаю с табличными данными и текстами, разбираю ошибки моделей и делаю результаты понятными через визуализации и веб-интерфейсы.
+
+**Направление:** Data Science / ML Engineering.
 
 ---
 
-### 🎯 Обо мне
+## 🚀 Проекты
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "👨‍💻 Андрей"
-        self.role = "ML / Data Science разработчик"
-        self.passion = "🚀 Создаю качественный код и решаю сложные задачи"
+<table>
+  <tr>
+    <td width="36%" align="center">
+      <a href="https://github.com/golovanov-andrei/MoscowPrices">
+        <img src="https://raw.githubusercontent.com/golovanov-andrei/MoscowPrices/012a0187927f8d0491d546e5a30ea2d3348d56f0/screens/home.jpg" alt="Сайт MoscowPrices" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/golovanov-andrei/MoscowPrices">🏙️ MoscowPrices</a></h3>
+      <p>Оценка стоимости квартир в Москве по характеристикам квартиры и расположению.</p>
+      <p>CatBoost, Flask-сайт и API, форма предсказания, интерактивная карта метро. В README — запуск и условия оценки качества.</p>
+      <p><b>Python · CatBoost · Flask · Folium · JavaScript</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/golovanov-andrei/Reviews">
+        <img src="https://raw.githubusercontent.com/golovanov-andrei/Reviews/d7f2b5f646677f134345098e50506693a2a28182/screens/lda.png" alt="Темы отзывов в Reviews" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/golovanov-andrei/Reviews">📝 Reviews</a></h3>
+      <p>Классификация тональности англоязычных отзывов и исследование тем обсуждений.</p>
+      <p>TF-IDF с униграммами и биграммами, Logistic Regression, анализ ошибок и пять тем LDA с визуализацией pyLDAvis.</p>
+      <p><b>Python · scikit-learn · NLP · LDA · pyLDAvis</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/golovanov-andrei/Credit-risk">
+        <img src="https://raw.githubusercontent.com/golovanov-andrei/Credit-risk/31fef6f390cb1bfe0fb7ff91a4e76bc0a413988b/screens/result.jpg" alt="Score и объяснение модели Credit-risk" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/golovanov-andrei/Credit-risk">💳 Credit-risk</a></h3>
+      <p>Учебный скоринг: единый Pipeline для обучения, CLI и приложения Streamlit.</p>
+      <p>Train / validation / test, выбор порога по F1, сравнение с baseline и объяснение вкладов признаков. Целевая метка задаётся искусственным правилом.</p>
+      <p><b>Python · scikit-learn · Streamlit · pytest · GitHub Actions</b></p>
+    </td>
+  </tr>
+</table>
 
-    def stack(self):
-        return {
-            "core": ["🐍 Python"],
-            "data": ["📊 Pandas", "📈 NumPy", "🗃️ SQL"],
-            "tools": ["🔧 Git", "📒 Google Colab", "🏆 Kaggle"]
-        }
+Дополнительно: [Spring_2026 — учебные работы](https://github.com/golovanov-andrei/Spring_2026).
 
-    def ml_pipeline(self, data):
-        data = self.preprocess(data)  
-        model = self.train(data)     
-        results = self.evaluate(model) 
-        return results
+---
 
-    def current_focus(self):
-        return "Разработка ML / Data Science"
+## 🛠 Стек
 
+| Направление | Инструменты |
+| --- | --- |
+| Данные | Python, pandas, NumPy, SQL |
+| Machine Learning | scikit-learn, CatBoost, Logistic Regression, Pipeline |
+| NLP | TF-IDF, CountVectorizer, LDA |
+| Визуализация | Matplotlib, Seaborn, Folium, pyLDAvis |
+| Приложения | Flask, Streamlit, HTML, CSS, JavaScript |
+| Разработка | Git, GitHub Actions, pytest, Jupyter Notebook, Google Colab |
 
-me = AboutMe()
-```
+---
 
+## 🔎 На что обращаю внимание
 
-### 🛠️ Технологический стек
+- **Качество эксперимента:** разбиение данных, метрики, baseline и ограничения оценки.
+- **Воспроизводимость:** понятный запуск, сохранение предобработки вместе с моделью.
+- **Рабочий результат:** интерфейс, обработка входных данных и проверки критичных сценариев.
 
-<p align="center"> Основные языки </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
-</p>
+---
 
-<p align="center"> Инфраструктура & Инструменты </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> 
-   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-</p>
+## 📈 Активность
 
-<p align="center"> Библиотеки & Анализ данных </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-</p>
+Публичные contributions GitHub за последние 31 день. График обновляется ежедневно.
 
-### 📊 Статистика
-<p align="center"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=golovanov-andrei&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Статистика"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golovanov-andrei&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Топ языков"> 
-</p>
-
-<!--- ### 🚀 Мои ключевые проекты -->
-
-
-### 📈 Активность
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=golovanov-andrei&theme=react-dark&hide_border=true&area=true" alt="График активности"> 
-</p>
-
-### 💡 Философия
-
-Фокус на данных, моделях и реальной практике. </p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=golovanov-andrei&color=blueviolet&style=flat-square" alt="Посетители профиля" /> 
-  <a href="https://github.com/golovanov-andrei?tab=followers"> <img src="https://img.shields.io/github/followers/golovanov-andrei?label=Follow&style=social" alt="Подписчики"> </a> 
-</p>
+<a href="https://github.com/golovanov-andrei?tab=overview">
+  <img src="assets/activity.svg" alt="График публичной активности golovanov-andrei на GitHub за 31 день" width="100%">
+</a>
